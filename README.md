@@ -17,5 +17,5 @@ gxc
 删除下载项目
 ```
 gxc del <projectName>
-// gxc d <projectName>
+// 或 gxc d <projectName>
 ```
