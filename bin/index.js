@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 const commander = require('../lib/commander')
 const inquirer = require('../lib/inquirer')
-const build = require('../lib/command/build')
+const build = require('../lib/run/build')
 
 // 解析参数
 commander()
