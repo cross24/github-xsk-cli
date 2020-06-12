@@ -1,5 +1,5 @@
 ### 用脚手架的形式拉取github项目
-仅供娱乐参考
+[代码解析看这里](http://xiaoshengkai.com/doc/5eb7cad73f37fa572675f2c5)
 
 #### 安装
 ```
